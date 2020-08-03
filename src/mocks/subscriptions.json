@@ -1,0 +1,74 @@
+[
+  {
+    "itemId": "sub-001",
+    "name": "Netflix",
+    "description": "",
+    "color": "#F63F44",
+    "icon": "monitor-outline",
+    "cost": 199,
+    "startDate": "2020-08-03T14:58:53.569Z",
+    "endDate": "2020-08-03T14:58:53.569Z",
+    "repeats": 0,
+    "currency": "MXN"
+  },
+  {
+    "itemId": "sub-002",
+    "name": "Spotify",
+    "description": "",
+    "color": "#75D178",
+    "icon": "headphones-outline",
+    "cost": 149,
+    "startDate": "2020-08-03T14:59:32.500Z",
+    "endDate": "2020-08-03T14:59:32.500Z",
+    "repeats": 0,
+    "currency": "MXN"
+  },
+  {
+    "itemId": "sub-003",
+    "name": "Google Apps",
+    "description": "danielgarcia.me",
+    "color": "#65C3ED",
+    "icon": "google-outline",
+    "cost": 10,
+    "startDate": "2020-08-03T15:00:18.738Z",
+    "endDate": "2020-08-03T15:00:18.738Z",
+    "repeats": 0,
+    "currency": "USD"
+  },
+  {
+    "itemId": "sub-004",
+    "name": "Apple Developer",
+    "description": "Personal",
+    "color": "#fafafa",
+    "icon": "smartphone-outline",
+    "cost": 99,
+    "startDate": "2020-08-03T15:01:34.005Z",
+    "endDate": "2020-08-03T15:01:34.005Z",
+    "repeats": 0,
+    "currency": "USD"
+  },
+  {
+    "itemId": "sub-005",
+    "name": "Amazon Prime",
+    "description": "",
+    "color": "#F3BE42",
+    "icon": "shopping-cart-outline",
+    "cost": 899,
+    "startDate": "2020-08-03T15:02:18.995Z",
+    "endDate": "2020-08-03T15:02:18.995Z",
+    "repeats": 0,
+    "currency": "MXN"
+  },
+  {
+    "itemId": "sub-006",
+    "name": "Dominio",
+    "description": "danielgarcia.me",
+    "color": "#B54FE9",
+    "icon": "globe-2-outline",
+    "cost": 20,
+    "startDate": "2020-08-03T15:03:08.096Z",
+    "endDate": "2020-08-03T15:03:08.096Z",
+    "repeats": 0,
+    "currency": "MXN"
+  }
+]
